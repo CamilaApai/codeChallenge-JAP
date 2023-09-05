@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+    text-align: center;
+    
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    margin: 10px;  
+    padding: 5px;
+}
+
+#submit {
+    background-color: lightcoral;
+}
+
+
+#submit:hover {
+    font-weight: bold;
+}
